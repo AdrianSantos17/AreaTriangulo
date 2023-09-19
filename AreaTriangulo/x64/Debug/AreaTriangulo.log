@@ -1,0 +1,4 @@
+﻿  AreaTriangulo.cpp
+C:\programas\visual estudio\AreaTriangulo\AreaTriangulo\AreaTriangulo.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\programas\visual estudio\AreaTriangulo\AreaTriangulo\AreaTriangulo.cpp(8,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  AreaTriangulo.vcxproj -> C:\programas\visual estudio\AreaTriangulo\x64\Debug\AreaTriangulo.exe
