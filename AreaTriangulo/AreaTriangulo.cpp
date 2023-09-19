@@ -7,6 +7,6 @@ void main(void)
 	scanf_s("%f", &base);
 	printf("Altura: ");
 	scanf_s("%f", &altura);
-	area = (base * altura) / 2.0;
-	printf("El area de el triangulo es: %10.2f", area);
+	area = base * altura;
+	printf("El area de el rectangulo es: %10.2f", area);
 }
